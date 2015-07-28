@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\AGHE06\Assets\GameController.cs">
+    <Files>
+      <File FileName="..\AGHE06\Assets\GameController.cs" Line="13" Column="26" />
+      <File FileName="..\AGHE06\Assets\LetterController.cs" Line="19" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
